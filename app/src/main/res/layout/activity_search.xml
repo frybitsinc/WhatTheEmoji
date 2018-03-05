@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="80dp"
         android:inputType="textPersonName"
-        android:text="emoji here"
+        android:hint="emoji here"
         android:ems="10"
         android:id="@+id/editText"
         android:layout_weight="1" />
