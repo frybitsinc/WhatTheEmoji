@@ -27,7 +27,7 @@
         android:inputType="textPersonName"
         android:hint="emoji here"
         android:ems="10"
-        android:id="@+id/editText"
+        android:id="@+id/editText_emoji_input"
         android:layout_weight="1" />
 
     <Button
